@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password_hash": "8c6976e5b5410415bde908bd4dee15dfb16e0bdf4b4fc71fa6427e6a5a8b6e2c",
+    "role": "admin"
+  },
+  "editor1": {
+    "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd539724fc4d8b4c8e5",
+    "role": "editor"
+  },
+  "viewer1": {
+    "password_hash": "2c1743a391305fbf367df8e4f069f9f9b828b9bd4b3d982b1f3e0a2f94a1e9d5",
+    "role": "viewer"
+  }
+}
