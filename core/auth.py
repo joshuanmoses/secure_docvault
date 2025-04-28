@@ -1,5 +1,3 @@
-# core/auth.py
-
 import pyotp
 import hashlib
 import json
