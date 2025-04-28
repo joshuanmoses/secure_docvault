@@ -1,5 +1,3 @@
-# web/app.py
-
 from flask import Flask, render_template, redirect, url_for, request, session
 from web.forms import LoginForm
 from core.auth import verify_password, verify_2fa
