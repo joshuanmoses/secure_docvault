@@ -1,5 +1,3 @@
-# core/encryptor.py
-
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.primitives import padding
 from config.settings import ENCRYPTION_KEY
