@@ -1,5 +1,3 @@
-# core/access_control.py
-
 from config.settings import ROLES
 import json
 
