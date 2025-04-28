@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Secure DocVault - AI Encrypted Document Management System</title>
 </head>
 <body>
 
@@ -190,16 +189,11 @@ python3 web/app.py
 
 <hr>
 
-<h2>📜 License</h2>
-
-<p>MIT License — Open source and open to contributions!</p>
-
-<hr>
 
 <h2>👨‍💻 Author</h2>
 
 <ul>
-  <li><a href="https://github.com/yourusername">Your Name</a> — AI Engineer & Cybersecurity SME</li>
+  <li><a href="https://github.com/joshuanmoses">Joshua Moses</a> — AI & Threat Expert</li>
 </ul>
 
 </body>
