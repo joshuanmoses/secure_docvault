@@ -1,5 +1,3 @@
-# core/document_store.py
-
 import os
 from core.encryptor import encrypt_data, decrypt_data
 
