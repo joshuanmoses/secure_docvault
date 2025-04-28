@@ -1,5 +1,3 @@
-# core/utils.py
-
 import hashlib
 import os
 import secrets
