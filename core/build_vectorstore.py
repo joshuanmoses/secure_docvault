@@ -1,5 +1,3 @@
-# core/build_vectorstore.py
-
 from sentence_transformers import SentenceTransformer
 import faiss
 import os
