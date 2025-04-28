@@ -1,5 +1,3 @@
-# core/llm_indexer.py
-
 from sentence_transformers import SentenceTransformer
 import faiss
 import os
